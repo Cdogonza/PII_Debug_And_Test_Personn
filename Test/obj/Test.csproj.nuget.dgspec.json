@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gpaz\\Desktop\\PII_Debug_And_Test_Person\\src\\Program\\PII_Debug_And_Test_Person.csproj": {}
+    "C:\\Users\\gpaz\\Desktop\\PII_Debug_And_Test_Person\\Test\\Test.csproj": {}
   },
   "projects": {
     "C:\\Users\\gpaz\\Desktop\\PII_Debug_And_Test_Person\\src\\Library\\Library.csproj": {
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\gpaz\\Desktop\\PII_Debug_And_Test_Person\\src\\Program\\PII_Debug_And_Test_Person.csproj": {
+    "C:\\Users\\gpaz\\Desktop\\PII_Debug_And_Test_Person\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gpaz\\Desktop\\PII_Debug_And_Test_Person\\src\\Program\\PII_Debug_And_Test_Person.csproj",
-        "projectName": "PII_Debug_And_Test_Person",
-        "projectPath": "C:\\Users\\gpaz\\Desktop\\PII_Debug_And_Test_Person\\src\\Program\\PII_Debug_And_Test_Person.csproj",
+        "projectUniqueName": "C:\\Users\\gpaz\\Desktop\\PII_Debug_And_Test_Person\\Test\\Test.csproj",
+        "projectName": "Test",
+        "projectPath": "C:\\Users\\gpaz\\Desktop\\PII_Debug_And_Test_Person\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\gpaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gpaz\\Desktop\\PII_Debug_And_Test_Person\\src\\Program\\obj\\",
+        "outputPath": "C:\\Users\\gpaz\\Desktop\\PII_Debug_And_Test_Person\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gpaz\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -93,6 +93,24 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

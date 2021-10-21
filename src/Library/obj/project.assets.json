@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\gpaz\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\OneDrive - Universidad Católica del Uruguay\\PROG II\\EJERCICIOS\\PII_Debug_And_Test_Person\\src\\Library\\Library.csproj",
+      "projectUniqueName": "C:\\Users\\gpaz\\Desktop\\PII_Debug_And_Test_Person\\src\\Library\\Library.csproj",
       "projectName": "Library",
-      "projectPath": "C:\\Users\\User\\OneDrive - Universidad Católica del Uruguay\\PROG II\\EJERCICIOS\\PII_Debug_And_Test_Person\\src\\Library\\Library.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\OneDrive - Universidad Católica del Uruguay\\PROG II\\EJERCICIOS\\PII_Debug_And_Test_Person\\src\\Library\\obj\\",
+      "projectPath": "C:\\Users\\gpaz\\Desktop\\PII_Debug_And_Test_Person\\src\\Library\\Library.csproj",
+      "packagesPath": "C:\\Users\\gpaz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gpaz\\Desktop\\PII_Debug_And_Test_Person\\src\\Library\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\gpaz\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
