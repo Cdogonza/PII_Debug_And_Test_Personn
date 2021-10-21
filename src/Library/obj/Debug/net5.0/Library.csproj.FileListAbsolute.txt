@@ -1,0 +1,24 @@
+C:\Users\gpaz\Desktop\PII_Debug_And_Test_Person\src\Library\bin\Debug\net5.0\Library.deps.json
+C:\Users\gpaz\Desktop\PII_Debug_And_Test_Person\src\Library\bin\Debug\net5.0\Library.dll
+C:\Users\gpaz\Desktop\PII_Debug_And_Test_Person\src\Library\bin\Debug\net5.0\ref\Library.dll
+C:\Users\gpaz\Desktop\PII_Debug_And_Test_Person\src\Library\bin\Debug\net5.0\Library.pdb
+C:\Users\gpaz\Desktop\PII_Debug_And_Test_Person\src\Library\obj\Debug\net5.0\Library.csproj.AssemblyReference.cache
+C:\Users\gpaz\Desktop\PII_Debug_And_Test_Person\src\Library\obj\Debug\net5.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpaz\Desktop\PII_Debug_And_Test_Person\src\Library\obj\Debug\net5.0\Library.AssemblyInfoInputs.cache
+C:\Users\gpaz\Desktop\PII_Debug_And_Test_Person\src\Library\obj\Debug\net5.0\Library.AssemblyInfo.cs
+C:\Users\gpaz\Desktop\PII_Debug_And_Test_Person\src\Library\obj\Debug\net5.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\gpaz\Desktop\PII_Debug_And_Test_Person\src\Library\obj\Debug\net5.0\Library.dll
+C:\Users\gpaz\Desktop\PII_Debug_And_Test_Person\src\Library\obj\Debug\net5.0\ref\Library.dll
+C:\Users\gpaz\Desktop\PII_Debug_And_Test_Person\src\Library\obj\Debug\net5.0\Library.pdb
+C:\Users\User\OneDrive - Universidad Católica del Uruguay\PROG II\EJERCICIOS\PII_Debug_And_Test_Person\src\Library\bin\Debug\net5.0\Library.deps.json
+C:\Users\User\OneDrive - Universidad Católica del Uruguay\PROG II\EJERCICIOS\PII_Debug_And_Test_Person\src\Library\bin\Debug\net5.0\Library.dll
+C:\Users\User\OneDrive - Universidad Católica del Uruguay\PROG II\EJERCICIOS\PII_Debug_And_Test_Person\src\Library\bin\Debug\net5.0\ref\Library.dll
+C:\Users\User\OneDrive - Universidad Católica del Uruguay\PROG II\EJERCICIOS\PII_Debug_And_Test_Person\src\Library\bin\Debug\net5.0\Library.pdb
+C:\Users\User\OneDrive - Universidad Católica del Uruguay\PROG II\EJERCICIOS\PII_Debug_And_Test_Person\src\Library\obj\Debug\net5.0\Library.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - Universidad Católica del Uruguay\PROG II\EJERCICIOS\PII_Debug_And_Test_Person\src\Library\obj\Debug\net5.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - Universidad Católica del Uruguay\PROG II\EJERCICIOS\PII_Debug_And_Test_Person\src\Library\obj\Debug\net5.0\Library.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - Universidad Católica del Uruguay\PROG II\EJERCICIOS\PII_Debug_And_Test_Person\src\Library\obj\Debug\net5.0\Library.AssemblyInfo.cs
+C:\Users\User\OneDrive - Universidad Católica del Uruguay\PROG II\EJERCICIOS\PII_Debug_And_Test_Person\src\Library\obj\Debug\net5.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Universidad Católica del Uruguay\PROG II\EJERCICIOS\PII_Debug_And_Test_Person\src\Library\obj\Debug\net5.0\Library.dll
+C:\Users\User\OneDrive - Universidad Católica del Uruguay\PROG II\EJERCICIOS\PII_Debug_And_Test_Person\src\Library\obj\Debug\net5.0\ref\Library.dll
+C:\Users\User\OneDrive - Universidad Católica del Uruguay\PROG II\EJERCICIOS\PII_Debug_And_Test_Person\src\Library\obj\Debug\net5.0\Library.pdb

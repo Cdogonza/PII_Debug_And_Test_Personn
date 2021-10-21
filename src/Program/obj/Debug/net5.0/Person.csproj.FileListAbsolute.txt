@@ -1,0 +1,5 @@
+C:\Users\gpaz\OneDrive - Universidad Católica del Uruguay\PROG II\EJERCICIOS\PII_Debug_And_Test_Person\src\Program\obj\Debug\net5.0\Person.csproj.AssemblyReference.cache
+C:\Users\gpaz\OneDrive - Universidad Católica del Uruguay\PROG II\EJERCICIOS\PII_Debug_And_Test_Person\src\Program\obj\Debug\net5.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpaz\OneDrive - Universidad Católica del Uruguay\PROG II\EJERCICIOS\PII_Debug_And_Test_Person\src\Program\obj\Debug\net5.0\Person.AssemblyInfoInputs.cache
+C:\Users\gpaz\OneDrive - Universidad Católica del Uruguay\PROG II\EJERCICIOS\PII_Debug_And_Test_Person\src\Program\obj\Debug\net5.0\Person.AssemblyInfo.cs
+C:\Users\gpaz\OneDrive - Universidad Católica del Uruguay\PROG II\EJERCICIOS\PII_Debug_And_Test_Person\src\Program\obj\Debug\net5.0\Person.csproj.CoreCompileInputs.cache

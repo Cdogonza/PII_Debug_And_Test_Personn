@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gpaz\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gpaz\\.nuget\\packages"
+    ]
+  }
+}
